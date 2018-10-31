@@ -1,0 +1,62 @@
+.title {
+    font-size: 45px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+    font-family: "Helvetica", Monaco, monospace;
+}
+
+.main_image {
+    padding: 20px;
+}
+
+.nav-main {
+  list-style: none;
+   text-align: center;
+  padding: 10;
+}
+.nav-main > li {
+  margin: 0;
+  display: inline-block;
+ 
+}
+
+.nav-main a {
+  text-decoration: none; 
+  color: white;
+  background-color: #333;
+  padding: 10px;
+  transition: all 0.2s;
+}
+.nav-main a:hover{
+  background-color: white;
+  color: #333;
+  
+}
+        
+
+input.button {
+    background-color: darkblue;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.info {
+    width: 67.5%;
+    padding-left: 16.25%;
+    padding-right: 16.25%;
+}
+.link{
+	font-size: 25px;
+}
+h3{
+	font-size: 30px;
+}
+
